@@ -188,6 +188,7 @@ Output :
 
     Print SandClock Pattern.
 Code :
+
 ```java
 public class sandClock {
     public static void main(String[] args) {
